@@ -1,10 +1,14 @@
 Package: gbifdashboard
-Title: What the Package Does (One Line, Title Case)
+Title: A Dashboard to Visualise Macroalgae Biogeography
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+    person("Lydia", "White", , "lydiaw140@gmailcom", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-7531-5168"), 
+           "Nicolas", "Henry", , "nicolas.henry@sb-roscoff.fr", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-7702-1382"),
+           "Anne", "Dubéarnès", , "dubearna@tcd.ie", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-5754-9235"),)
+Description: This package will do amazing things... to be updated. 
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
 Encoding: UTF-8
