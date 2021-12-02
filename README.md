@@ -1,2 +1,2 @@
 # gbif_dashboard
-A dashboard to viualise macroalgae biogeography
+A dashboard to visualise macroalgae biogeography
